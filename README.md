@@ -114,6 +114,7 @@ A developer who understands the software architecture can communicate more effec
 ## Case Solving
 - [Design Pattern Paractice](https://github.com/REZ0AN/SimpleTodo)
 - [Auth Practice From Scratch](https://github.com/REZ0AN/.NET-Auth)
+- [Microservice and Eventdriven Architecture Practice](https://github.com/REZ0AN/CUET_FRENZIED_FLAME)
 ## References
 - [https://martinfowler.com/](https://martinfowler.com/)
 - [Youtube Playlist by ](https://www.youtube.com/playlist?list=PL4JxLacgYgqTgS8qQPC17fM-NWMTr5GW6)
